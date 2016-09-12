@@ -1,11 +1,10 @@
-# emind1
+<!DOCTYPE html>
 <html>
-<body>
-
 <head>
-  <h1>This is a webpage</h1>
+<body>
+  <title>This is a webpage</title>
 </head>
   
   
   </body>
-  </head>
+  </html>
