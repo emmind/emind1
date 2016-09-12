@@ -1,7 +1,8 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-<head>
 <body>
+<head>
+
   <title>This is a webpage</title>
 </head>
   
